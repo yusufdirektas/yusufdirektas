@@ -2,10 +2,14 @@
 
 I'm currently a Computer Programming student at Nevşehir University, taking steps toward becoming an engineer.
 
+
+
 ### 💻 What I'm Working On
 * 🚀 **Web Development:** Building dynamic, modern projects with PHP and Laravel (Currently working on a comprehensive Movie Archive system and a dynamic weather application).
 * 🎯 **Software Architecture:** Solidifying core principles like Object-Oriented Programming (OOP) and inheritance using C#.
 * 📱 **Game & Animation:** Exploring the world of mobile game development and designing 2D animations with Adobe Animate.
+
+
 
 ### 🛠️ Tech Stack:
 <p align="left">
@@ -19,13 +23,19 @@ I'm currently a Computer Programming student at Nevşehir University, taking ste
   <img src="https://img.shields.io/badge/Adobe%20Animate-%23FF0CC2.svg?style=for-the-badge&logo=adobe-animate&logoColor=white" alt="Adobe Animate" />
 </p>
 
+
+
 ### ⚡ Beyond Coding...
 * 🎮 I'm a huge PC hardware and PC gaming enthusiast. In my free time, I love building systems and testing out new games.
 * ⚽ A passionate football fan 
 * 📱 I enjoy keeping up with social media dynamics and trends, always keeping my finger on the pulse of the digital world.
 
+
+
 ### 📫 Reach Out to Me
 * **Email:** yusufsaitdirektass@gmail.com
+
+* 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufdirektas/yusufdirektas/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufdirektas/yusufdirektas/output/pacman-contribution-graph.svg">
