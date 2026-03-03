@@ -22,7 +22,12 @@ I'm currently a Computer Programming student at Nevşehir University, taking ste
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Adobe%20Animate-%23FF0CC2.svg?style=for-the-badge&logo=adobe-animate&logoColor=white" alt="Adobe Animate" />
 </p>
-
+**Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 
 ### ⚡ Beyond Coding...
