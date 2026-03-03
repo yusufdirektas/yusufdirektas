@@ -1,4 +1,5 @@
 <div align="center">
+
 <pre align="center">
 ██╗   ██╗███████╗██████╗ 
 ╚██╗ ██╔╝██╔════╝██╔══██╗
@@ -99,14 +100,14 @@ passions:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufdirektas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufdirektas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdirektas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdirektas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdirektas&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yusufdirektas&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -151,6 +152,8 @@ passions:
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%"/>
+
+</div>
 
 </div>
 🎮 MY CODING JOURNEY (PAC-MAN EDITION)
