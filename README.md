@@ -11,38 +11,25 @@ I'm currently a Computer Programming student at Nevşehir University, taking ste
 
 
 
-🛠️ Tech Stack & Tools
-Core & Backend
+Development & Environment
 <p align="left">
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,postman" /></a>
 </p>
 
-Frontend
+Backend & Database
 <p align="left">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,cs,mysql" /></a>
 </p>
 
-Development
+Frontend & UI
 <p align="left">
-<img src="https://img.shields.io/badge/-Herd-111111?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=js,tailwind,bootstrap,html,css" /></a>
 </p>
 
-Creative
+Creative Tools
 <p align="left">
-<img src="https://img.shields.io/badge/-Animate-FF0CC2?style=flat-square&logo=adobe-animate&logoColor=white" />
-<img src="https://img.shields.io/badge/-Premiere-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
+<a href="#"><img src="https://skillicons.dev/icons?i=ae,pr" /></a>
 </p>
-
 ### ⚡ Beyond Coding...
 * 🎮 I'm a huge PC hardware and PC gaming enthusiast. In my free time, I love building systems and testing out new games.
 * ⚽ A passionate football fan 
