@@ -15,11 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Generate pacman-contribution-graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # YENİ EKLENEN: Arka plan rengini profil sayfanla aynı yapar
+          
           background_color: "#FFC0CB"
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
