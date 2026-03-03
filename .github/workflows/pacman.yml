@@ -1,27 +1,29 @@
-name: Generate Pacman Graph
+name: Generate Pac-Man Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 */24 * * *"
+  workflow_dispatch: 
   push:
     branches:
       - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Generate Pacman SVG
-        uses: lowlighter/metrics@latest
+      - name: Generate pacman-contribution-graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: yusufdirektas
-          template: classic
-          base: ""
-          # Pac-Man tarzı takvim görünümü için isocalendar eklentisi
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          # Şeffaf arka plan ve koyu tema zorlaması
-          config_timezone: Europe/Istanbul
-          config_display: large
+          github_user_name: ${{ github.repository_owner }}
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
