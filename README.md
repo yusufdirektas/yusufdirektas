@@ -19,13 +19,13 @@
 
 <br/>
 
-<a href="mailto:yusufsaitdirektass@gmail.com">
+<a href="mailto:yusufdirektas@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Nevşehir_University-0055A5?style=for-the-badge&logo=academia&logoColor=white" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=yusufsaitdirektass&style=for-the-badge&color=58A6FF" />
+<img src="https://komarev.com/ghpvc/?username=yusufdirektas&style=for-the-badge&color=58A6FF" />
 
 </div>
 
@@ -100,18 +100,18 @@ passions:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufsaitdirektass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusufdirektas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdirektas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsaitdirektass&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdirektas&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsaitdirektass&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufdirektas&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -141,7 +141,7 @@ passions:
 
 ### 💬 Let's Connect & Build Something Great
 
-<a href="mailto:yusufsaitdirektass@gmail.com">
+<a href="mailto:yusufdirektas@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
