@@ -26,5 +26,4 @@ I'm currently a Computer Programming student at Nevşehir University, taking ste
 
 ### 📫 Reach Out to Me
 * **Email:** yusufsaitdirektass@gmail.com
-### 🎮 Kodlama Serüvenim
-<img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/pacman-contribution-graph.svg" width="100%">
+
