@@ -1,19 +1,27 @@
-name: Generate Pacman
+name: Generate Pacman Graph
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Pacman SVG
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: yusufdirektas
           template: classic
           base: ""
+          # Pac-Man tarzı takvim görünümü için isocalendar eklentisi
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          # Şeffaf arka plan ve koyu tema zorlaması
+          config_timezone: Europe/Istanbul
+          config_display: large
