@@ -26,4 +26,5 @@ I'm currently a Computer Programming student at Nevşehir University, taking ste
 
 ### 📫 Reach Out to Me
 * **Email:** yusufsaitdirektass@gmail.com
-
+### 🎮 My Coding Journey (Pac-Man Edition)
+<img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/yusufdirektas/yusufdirektas/output/pacman-contribution-graph.svg" width="100%">
