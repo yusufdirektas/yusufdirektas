@@ -19,7 +19,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          background_color: "#0d1117"
+          background_color: "#FFC0CB"
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
