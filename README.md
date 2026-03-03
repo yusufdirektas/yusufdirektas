@@ -154,3 +154,11 @@ passions:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%"/>
 
 </div>
+🎮 MY CODING JOURNEY (PAC-MAN EDITION)
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufdirektas/yusufdirektas/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufdirektas/yusufdirektas/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yusufdirektas/yusufdirektas/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+</p>
