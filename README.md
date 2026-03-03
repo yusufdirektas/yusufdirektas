@@ -1,13 +1,13 @@
-# Selam, Ben [Adın/Soyadın]! 👋🚀
+# Hi, I'm Yusuf Sait Direktaş! 👋🚀
 
-Şu anda Nevşehir Üniversitesi'nde Bilgisayar Programcılığı okuyorum ve geleceğin mühendisi olma yolunda adımlarımı atıyorum. Öğrenirken üretmeyi, üretirken de freelance dünyasında web tasarımı, mobil uygulamalar ve oyun geliştirme ile değer yaratarak kendi pasif gelir kaynaklarımı oluşturmayı amaçlıyorum.
+I'm currently a Computer Programming student at Nevşehir University, taking steps toward becoming an engineer.
 
-### 💻 Nelerle Uğraşıyorum?
-* 🚀 **Web Geliştirme:** PHP ve Laravel ile dinamik, modern projeler geliştiriyorum (Şu an kapsamlı bir Film Arşivi sistemi ve dinamik bir hava durumu uygulaması üzerine çalışıyorum).
-* 🎯 **Yazılım Mimarisi:** C# ile Nesne Yönelimli Programlama (OOP) ve kalıtım (inheritance) gibi temel prensipleri sağlamlaştırıyorum.
-* 📱 **Oyun & Animasyon:** Mobil oyun geliştirme dünyasını keşfediyor ve Adobe Animate ile 2D animasyonlar tasarlıyorum.
+### 💻 What I'm Working On
+* 🚀 **Web Development:** Building dynamic, modern projects with PHP and Laravel (Currently working on a comprehensive Movie Archive system and a dynamic weather application).
+* 🎯 **Software Architecture:** Solidifying core principles like Object-Oriented Programming (OOP) and inheritance using C#.
+* 📱 **Game & Animation:** Exploring the world of mobile game development and designing 2D animations with Adobe Animate.
 
-### 💻 Tech Stack:
+### 🛠️ Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -17,12 +17,12 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Adobe%20Animate-%23FF0CC2.svg?style=for-the-badge&logo=adobe-animate&logoColor=white" alt="Adobe Animate" />
-</p> 
+</p>
 
-### ⚡ Kodların Dışında Ben...
-* 🎮 Tam bir PC donanım ve PC oyunları tutkunuyum. Boş vakitlerimde sistem toplamayı ve yeni oyunları test etmeyi severim.
-* ⚽ Sıkı bir futbol takipçisiyim 
-* 📱 Sosyal medya dinamiklerini ve trendlerini yakından takip etmeyi, dijital dünyanın nabzını tutmayı seviyorum.
+### ⚡ Beyond Coding...
+* 🎮 I'm a huge PC hardware and PC gaming enthusiast. In my free time, I love building systems and testing out new games.
+* ⚽ A passionate football fan 
+* 📱 I enjoy keeping up with social media dynamics and trends, always keeping my finger on the pulse of the digital world.
 
-### 📫 Bana Ulaşın
+### 📫 Reach Out to Me
 * **Email:** yusufsaitdirektass@gmail.com
