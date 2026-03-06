@@ -110,18 +110,6 @@ passions:
 
 ---
 
-## 🎯 2025 Roadmap
-
-```
-[██████████░░░░░░░░░░] 50% — Laravel Advanced Features
-[████████░░░░░░░░░░░░] 40% — C# & OOP Mastery
-[██████░░░░░░░░░░░░░░] 30% — Mobile Game Development
-[████░░░░░░░░░░░░░░░░] 20% — RESTful API Design
-[██░░░░░░░░░░░░░░░░░░] 10% — Cloud & DevOps Basics
-```
-
----
-
 ## ⚡ Fun Facts
 
 > 🖥️ I don't just write code — I also **build the machine** that runs it.  
