@@ -83,19 +83,6 @@ passions:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🎬 Movie Archive System | 🌤️ Weather App |
-|---|---|
-| A full-featured movie database built with **Laravel & PHP**. Supports browsing, filtering, user authentication, and dynamic content management. | A real-time weather application pulling live data from weather APIs. Clean UI with location-based forecasting. |
-| `Laravel` `PHP` `MySQL` `Blade` | `PHP` `JavaScript` `API` `CSS` |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 
