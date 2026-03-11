@@ -97,15 +97,6 @@ passions:
 
 ---
 
-## ⚡ Fun Facts
-
-> 🖥️ I don't just write code — I also **build the machine** that runs it.  
-> ⚽ Football isn't just a game, it's a philosophy of teamwork.  
-> 📱 I watch digital trends like others watch the news.  
-> 🎮 Yes, I have benchmarked way too many GPU combinations.
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Great
