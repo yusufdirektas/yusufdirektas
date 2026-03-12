@@ -88,7 +88,7 @@ passions:
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yusufdirektas&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yusufdirektas&theme=tokyonight&hide_border=true&v=1" />
 </div>
 
 <div align="center">
