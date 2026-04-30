@@ -11,7 +11,7 @@
 
 # Yusuf Sait Direktaş
 
-**`Full-Stack Developer in Progress ·  Game & Animation Explorer · Hardware Enthusiast.`**
+**`Full-Stack Developer in Progress ·  Game & Animation Explorer · Hardware Enthusiast`**
 
 <br/>
 
