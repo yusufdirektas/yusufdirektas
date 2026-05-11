@@ -36,7 +36,7 @@
 ```yaml
 name: "Yusuf Sait Direktaş"
 location: "Nevşehir, Türkiye 🇹🇷"
-education: "Computer Programming @ Nevşehir University"
+education: "Computer Programming @ Nevşehir University."
 currently_building:
   - "🎬 Comprehensive Movie Archive System (Laravel + PHP)"
   - "🌤️ Dynamic Weather Application"
